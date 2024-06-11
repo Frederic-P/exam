@@ -2,6 +2,9 @@
 Exam Data Science Year1 - Examday1
 Downloadable from: [GitHub](https://github.com/Frederic-P/exam)
 
+Part two of the exam is added to the notebook see the section with header: # Exam part two:
+
+
 ## Overview of key files/folders:
 
 ```
